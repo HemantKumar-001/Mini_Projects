@@ -1,0 +1,191 @@
+body{
+    background-color: rgb(6, 10, 19);
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.Main{
+    display: flex;
+    /* margin: 20px; */
+    background-color: rgb(11, 11, 34);
+    text-align: center;
+    padding-left: 110px;
+}
+
+nav{
+    display: flex;
+    margin: 20px;
+}
+
+h2{
+    margin: 20px;
+    color: white;
+    margin-top: 10px;
+    font-size: 21px;
+}
+
+h2:hover{
+    /* text-decoration: underline; */
+    opacity: 0.9;
+}
+
+button{
+    height: 50px;
+    width: 90px; 
+    margin-top: 1px;
+    border-radius: 10%;
+    background-color: rgb(85, 127, 206);
+    color: white;
+}
+
+button:hover{
+    background-color: black;
+    border: 2px solid  rgb(85, 127, 206);
+    transition: 0.5s;
+
+}
+
+.lor{
+    color: gray;
+}
+
+.p{
+    color: rgb(85, 127, 206);
+}
+
+.Content1{
+    height: 300px;
+    width: 400px;
+    margin-top: 150px;
+    /* background-color: green; */
+}
+
+.GetStarted{
+    background-color: rgb(85, 127, 206);
+    color: white;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+
+.Watch{
+    width: 130px;
+    height: 50px;
+}
+
+.Important{
+    height: 300px;
+    width: 1100px;
+    /* background-color: red; */
+    display: flex;
+    margin-left: 200px;
+}
+
+.SubHeading{
+    font-size: 35px;
+}
+
+.nav{
+    background-color: rgb(11, 11, 34);
+    height: 50px;
+    width: 1100px;
+    margin-left: -450px;
+    display: flex;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+
+.veryImportant{
+    height: 300px;
+    width: 1100px;
+    /* background-color: red; */
+    display: flex;
+    margin-left: 200px;
+}
+
+.innerNav{
+    font-weight: 1000;
+    font-size: 2rem;
+    font-style: bold;
+}
+
+.icon{
+    margin: 10px;
+}
+
+.space{
+    height: 70px;
+}
+
+.icon:hover{
+    color: blue;
+    transition: 0.3s;
+}
+
+.About{
+    color: rgb(31, 101, 194);
+    margin-left: 100px;
+    font-size: 50px;
+    font-style: initial;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.img1{
+    margin-right: 10px;
+    height: 500px;
+    width: 500px;
+} 
+
+.Important2{
+    height: 900px;
+    width: 800px;
+    background-color: rgb(6, 10, 19);
+    margin-left: -350px;
+    display: flex;
+
+}
+
+
+
+.Content2{
+    background-color: beige;
+    height: 900px;
+    width: 500px;
+
+}
+
+.AI{
+    margin-top: 125px;
+    font-size: 33px;
+    color: white;
+}
+
+.learnMore{
+    height: 40px;
+    width: 110px;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+}
+
+.box:hover{
+    transform: translate(-45px);
+}
